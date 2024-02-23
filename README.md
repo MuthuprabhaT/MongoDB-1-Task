@@ -2,7 +2,7 @@
  JSON data used from this [link](https://github.com/rvsp/database/blob/master/mongodb/product.json)
 
 ## Technologies used
-    - mongodb shell
+- mongodb shell
 
 ### For the following question write the corresponding MongoDB queries
 
